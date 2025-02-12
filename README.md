@@ -1,6 +1,6 @@
 # StellarBlue Timeseries App
 
-### :ledger: Description 
+### :ledger: ## Description 
 This Vue.js application is intended to visualize time-series data. It features a table for showing time-series values and a line chart for trend analysis.
 ## Core Requirements
 - **Framework Choice**: This application is built using Vue.js.
