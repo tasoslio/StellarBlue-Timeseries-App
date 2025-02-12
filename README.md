@@ -12,9 +12,9 @@ This Vue.js application is intended to visualize time-series data. It features a
  
 ## Enhanced Features
 - **Interactive Data Control**:
-- Made the table editable, allowing users to update any value in the timeseries. The chart automatically updates to reflect changes.
-- Added validation for table input values, restricting inputs to arithmetic values within the range [-2000, 2000]. If the input is invalid, the app displays a validation message and prevents updates to the table and chart.
-- Included legend checkboxes for each timeseries, enabling users to show or hide specific timeseries only in the chart for better data control.
+  - Made the table editable, allowing users to update any value in the timeseries. The chart automatically updates to reflect changes.
+  - Added validation for table input values, restricting inputs to arithmetic values within the range [-2000, 2000]. If the input is invalid, the app displays a validation message and prevents updates to the table and chart.
+  - Included legend checkboxes for each timeseries, enabling users to show or hide specific timeseries only in the chart for better data control.
 
 ###  :wrench: Development
 
