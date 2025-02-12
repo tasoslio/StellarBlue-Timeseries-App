@@ -6,7 +6,22 @@
 
 
 ##  :wrench: Development
-The files of the assignment were created with MATLAB R2018b.
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
 
 ## :question: FAQ
 If there are any questions, create an issue in this repository.
