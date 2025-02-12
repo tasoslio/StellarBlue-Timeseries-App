@@ -17,6 +17,23 @@ This Vue.js application is intended to visualize time-series data. It features a
   - Included legend checkboxes for each timeseries, enabling users to show or hide specific timeseries only in the chart for better data control.
 
 ###  :wrench: Development
+-**Dependencies**
+  - **Vue.js**: The main framework for the application.
+  - **Tailwind Css**: Framework for Styling the app.
+  - **apexcharts**: Library for Line Charts.
+  - **vue3-apexcharts**: Wrapper for apexcharts.
+  - **vue-toastification**: For creating pop ups.
+  - **moment**: For managing the timestamps.
+  - **json-server**: For creating a mockup backend from a json file.
+  - **axios**: For making API Requests in the backend
+  - **ag-grid-vue3**: For creating the editable data table.
+
+-**Run the Project**:
+  - Clone the repository from github.
+  - npm install to the project's folder
+  - npm run server to activate the mockup backend. (http://localhost:8000/timeseries/)
+  - npm run dev for the frontend. (http://localhost:3000/)
+
 
 
 ### :question: FAQ
